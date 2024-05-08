@@ -1,10 +1,10 @@
-<H3> Name : Silambarasan K </H3>
-<H3> Register No : 212221230101 </H3>
-<H3> Experiment : 2 </H3>
-<H3> Date : 06-03-2024 </H3>
-<h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
-## Aim:
+<h2 align =center>Ex-2Implementation of Exact Inference Method of Bayesian Network</h2>
+<H4> Name : Silambarasan K </H4>
+<H4> Register No : 212221230101 </H4>
+<H4> Date : 06-03-2024 </H4>
+
+### Aim:
 
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
 
@@ -97,7 +97,7 @@ print(result2)
 
 ```
 
-## Output :
+### Output :
 
 ### Inference 1:
 
@@ -107,7 +107,7 @@ print(result2)
 
 ![img2](https://github.com/anto-richard/Ex2---AAI/assets/93427534/10be313f-79a0-477b-949b-3f8b8dfe5009)
 
-## Result :
+### Result :
 
 Thus, Bayesian Inference was successfully determined using Variable Elimination Method.
 
