@@ -1,5 +1,5 @@
 
-<h2 align =center>Ex-2Implementation of Exact Inference Method of Bayesian Network</h2>
+<h2 align =center>Ex-2  Implementation of Exact Inference Method of Bayesian Network</h2>
 <H4> Name : Silambarasan K </H4>
 <H4> Register No : 212221230101 </H4>
 <H4> Date : 06-03-2024 </H4>
